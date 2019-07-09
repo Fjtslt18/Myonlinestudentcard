@@ -62,6 +62,6 @@ p {
 
 @media (max-width: 600px) {
   .about {
-    background-color: chartreuse;
+    background-color: green;
   }
 }
